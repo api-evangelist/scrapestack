@@ -39,7 +39,6 @@ apis:
   - name: scrapestack
     description: "Real-time, Scalable Proxy & Web Scraping REST API"
     humanURL: https://scrapestack.com/
-    baseURL: https://scrapestack.com/
     tags:
       - Development
     properties:
